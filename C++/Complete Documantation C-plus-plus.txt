@@ -1,0 +1,43 @@
+
+
+Pointer:[A pointer is a variable whose value is the address of another variable.]
+	-call by value
+	-call by reference
+
+Vector:[Vectors are same as dynamic arrays with the ability to resize itself automatically when an element is inserted or deleted, with their storage being handled automatically by the container.]
+	
+
+
+
+Advantages of OOP programming:
+	-MAINTAINABILITY 
+	-REUSABILITY 
+	-SCALABILITY 
+
+Class:[default constructor, parameterized constructor, destructor]
+Constructor Public
+	-private member/variable
+	-public member/variable
+	-protected member/variable
+
+Inheritance:
+	-super class 
+	-sub class
+	-single inheritance 
+	-multilevel inheritance
+	-multiple inheritance
+
+Friend Function:
+	-If a function is defined as a friend function then, the private and protected data of a class can be accessed using the function.
+
+Polymorphism:[function name same aurgument vinno]
+	-function overloading
+	-operator overloading [baki]
+	-virtual function: same function base class & dirive class e thakle. 
+	-Pure Virtual Functions: the function has no body and above virtual function will be called pure virtual function.
+
+Interface:
+	-An interface describes the behavior or capabilities of a C++ class without committing to a particular implementation of that class.
+
+Template:
+	-In simple terms, you can create a single function or a class to work with different data types using templates.

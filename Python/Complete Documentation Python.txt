@@ -1,0 +1,21 @@
+GeeksforGeeks
+https://www.geeksforgeeks.org/python-programming-language/#Applications and Projects
+
+1.Data Type
+2.Operator
+3.Condition
+4.Loop
+5.Basic Data Structure
+6.Function
+7.File
+8.Class
+9.Inheritance
+10.Decorators
+11.Generators
+12.Pandas
+13.Numpy
+14.Matplotlib
+15.sklearn
+16.Webscraping
+17.re
+18.Seaborn

@@ -1,0 +1,30 @@
+https://www.tutorialspoint.com/cplusplus/cpp_polymorphism.htm
+
+GeeksforGeeks
+https://www.geeksforgeeks.org/c-plus-plus/
+
+http://www.trytoprogram.com/cplusplus-programming/
+
+
+1.Data Type
+2.Operator
+3.Condition
+4.Loop
+5.Array
+6.Pointer
+7.String
+8.Function
+9.Recursive Function
+10.File
+11.Vector
+12.Structure
+
+oop
+
+13.Class
+14.Operator Overloading
+15.Templete
+16.Inheritance
+17.Polymorphism
+17.Exception Handling
+18.Standard Template Library
