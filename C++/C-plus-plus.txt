@@ -26,5 +26,5 @@ oop
 15.Templete
 16.Inheritance
 17.Polymorphism
-17.Exception Handling
-18.Standard Template Library
+18.Exception Handling
+19.Standard Template Library
